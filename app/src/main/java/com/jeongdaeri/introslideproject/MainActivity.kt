@@ -36,7 +36,7 @@ class MainActivity : AppCompatActivity() {
             my_intro_view_pager.currentItem = my_intro_view_pager.currentItem + 1
         }
 
-        pageItemList.add(PageItem(R.color.colorOrange, R.drawable.ic_pager_item_1, "안녕하세요!"))
+        pageItemList.add(PageItem(R.color.colorOrange, R.drawable.ic_pager_item_1, "안녕하세요!\n개발하는 정대리입니다!"))
         pageItemList.add(PageItem(R.color.colorBlue, R.drawable.ic_pager_item_2, "구독, 좋아요 눌러주세요!"))
         pageItemList.add(PageItem(R.color.colorWhite, R.drawable.ic_pager_item_3, "알람설정 부탁드립니다!"))
 

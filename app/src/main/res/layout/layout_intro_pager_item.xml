@@ -20,6 +20,7 @@
         android:layout_height="wrap_content"
         android:text="뷰페이저 아이템 레이아웃"
         android:textSize="30sp"
+        android:textAlignment="center"
         />
 
 
